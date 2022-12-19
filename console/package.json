@@ -45,7 +45,7 @@
     "ng-qrcode": "^7.0.0",
     "ngx-color": "^7.2.0",
     "ngx-quicklink": "^0.2.6",
-    "rxjs": "~7.5.2",
+    "rxjs": "~7.8.0",
     "tinycolor2": "^1.4.2",
     "tslib": "^2.2.0",
     "uuid": "^8.3.2",
